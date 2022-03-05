@@ -1,0 +1,2 @@
+rootProject.name = "TugasBinar-Top1"
+include ':app'
